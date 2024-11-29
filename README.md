@@ -194,16 +194,30 @@ GROUP BY
 Screenshots:
 1. Storage creation
 ![alt text](Capture4.PNG)
-2. Functional and accurate simulated sensors generating proper JSON payloads.
+![Capture4](https://github.com/user-attachments/assets/bf84ca9f-138a-48d2-8635-8b193c8402f2)
+
+3. Functional and accurate simulated sensors generating proper JSON payloads.
 ![alt text](<running all sensors.PNG>)
-3. IoT Hub configuration.
+![running all sensors](https://github.com/user-attachments/assets/3b99e520-d0a2-49a9-a3c9-5fa14d95a911)
+
+5. IoT Hub configuration.
 ![alt text](Capture.PNG)
-4. Stream Analytics job settings and queries.
+![Capture](https://github.com/user-attachments/assets/12444133-24db-4198-a8fa-4f258b41c4a3)
+
+7. Stream Analytics job settings and queries.
 ![alt text](Capture3.PNG)
+![Capture3](https://github.com/user-attachments/assets/2e96054d-70e4-4b79-8e71-487e495bf6da)
+
 ![alt text](Capture2.PNG)
-5. Blob Storage output structure.
+![Capture2](https://github.com/user-attachments/assets/d0558b1d-96ee-489f-9f13-695ab56f2d9a)
+
+9. Blob Storage output structure.
 ![alt text](Capture3.PNG)
+![Capture3](https://github.com/user-attachments/assets/ff9b7324-737b-4c14-9030-57a32357de40)
+
 ![alt text](Capture4.PNG)
+![Capture4](https://github.com/user-attachments/assets/b4ecc92e-ce46-4fdc-8f76-0727256aa05b)
+
 ![alt text](<Capture3 - Copy.PNG>)
 
 ---
