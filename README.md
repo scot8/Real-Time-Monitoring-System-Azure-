@@ -1,3 +1,8 @@
+# Group_Assignment 20
+Burul, Seyfullah
+Scott, Rohan James
+Erturk, Savas
+
 # Real-Time Monitoring System for Rideau Canal Skateway
 
 ## **Scenario Description**
